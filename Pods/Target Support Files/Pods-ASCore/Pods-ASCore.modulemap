@@ -1,0 +1,6 @@
+framework module Pods_ASCore {
+  umbrella header "Pods-ASCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
